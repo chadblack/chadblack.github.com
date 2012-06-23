@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        History 511 Course Blog/Announcements feed    </title>
+        <link href="blog/atom.xml" rel="self" />
+    
+        <link href="/511S2012/"/>
+    
+        
+    <updated>2012-04-03T22:30:42Z</updated>
+
+    <id>/511S2012/blog/atom.xml/</id>
+
+            <entry>
+            <title type="html">wesch on why courses fail</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/why_good_courses_fail.html"/>
+            <updated>2012-04-03T22:30:00Z</updated>
+            <published>2012-04-03T22:30:00Z</published>
+            <id>/511S2012/blog/why_good_courses_fail.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;Michael Wesch, the anthropologist/digital ethnographer whose students made the video we watched in class last week, &lt;a href=&#34;http://mediatedcultures.net/smatterings/why-good-classes-fail/&#34;&gt;reflects&lt;/a&gt; on why well designed, good courses can still fail. And, it&amp;#8217;s not because they rely too much on traditional formats, lectures, or the like. What&amp;#8217;s the role of empathy in the&amp;nbsp;classroom?&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">profhacker teaching carnival 5.08</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/teaching_carnival.html"/>
+            <updated>2012-04-02T08:30:00Z</updated>
+            <published>2012-04-02T08:30:00Z</published>
+            <id>/511S2012/blog/teaching_carnival.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;Brought to you by the good folks at Profhacker and by Dawn Armfield, a PhD candidate in Rhetoric and Scientific/Technical Communications at the University of Minnesota, there&amp;#8217;s a new &lt;a href=&#34;http://chronicle.com/blogs/profhacker/teaching-carnival-5-08/39294&#34;&gt;teaching carnival&lt;/a&gt; up on the &lt;em&gt;Chronicle&lt;/em&gt; website chock full of links on teaching issues. As I know you&amp;#8217;re all looking for more reading this week, head on over there! Better yet, add Profhacker and Gradhacker to your rss feeds and read them&amp;nbsp;regularly.&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">some resources for making course sites</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/making_a_course_site.html"/>
+            <updated>2012-02-27T17:30:00Z</updated>
+            <published>2012-02-27T17:30:00Z</published>
+            <id>/511S2012/blog/making_a_course_site.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;A list of some links to resources on building online course sites:&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/clioweb/using-wordpress-for-a-course-website-presentation&#34;&gt;Slides&lt;/a&gt; from a talk by Jeremy Boggs (UVa/Scholarslab) on building course websites with&amp;nbsp;WordPress&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/startusingtech/make-a-class-website&#34;&gt;Make a Course Website&lt;/a&gt; with Google Sites&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Profhacker on &lt;a href=&#34;http://chronicle.com/blogs/profhacker/28663/28663&#34;&gt;building a course calendar with google calendar and&amp;nbsp;wordpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A post I wrote on aggregating &lt;a href=&#34;http://parezcoydigo.wordpress.com/2010/09/01/aggregating-student-blogs/&#34;&gt;student&amp;nbsp;blogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Another post I once wrote on &lt;a href=&#34;http://parezcoydigo.wordpress.com/2010/06/08/building-an-academic-wordpress-ecosphere/&#34;&gt;building an academic ecosphere&lt;/a&gt; with&amp;nbsp;WordPress&lt;/li&gt;
+&lt;li&gt;A post I wrote on the dangers of &lt;a href=&#34;http://parezcoydigo.wordpress.com/2011/04/15/rolling-your-own-and-getting-pwned/&#34;&gt;rolling your&amp;nbsp;own&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On &lt;span class=&#34;caps&#34;&gt;HASTAC&lt;/span&gt;, &lt;a href=&#34;http://hastac.org/blogs/michael-widner/building-course-website-drupal&#34;&gt;building course sites with&amp;nbsp;Drupal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A tutorial for using &lt;a href=&#34;http://viralnotebook.pbworks.com/w/page/28257588/Building%20a%20Course%20Site%20with%20PBWorks&#34;&gt;pbworks wiki for course sites&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/msquareg/building-a-course-site-with-pbworks&#34;&gt;Slides&lt;/a&gt; for that tutorial on pbworks by Michael&amp;nbsp;Grant&lt;/li&gt;
+&lt;li&gt;Mark Frydenberg, &amp;#8220;&lt;a href=&#34;http://jolt.merlot.org/vol4no2/frydenberg0608.htm&#34;&gt;Wikis as a Tool for Collaborative Course Managmenet&lt;/a&gt;&amp;#8220;, &lt;em&gt;&lt;span class=&#34;caps&#34;&gt;JOLT&lt;/span&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Another &lt;a href=&#34;https://wiki.shanti.virginia.edu/display/KB/Building+a+Dynamic+Course+Site+Using+WordPress&#34;&gt;site&lt;/a&gt; on building course sites with WordPress by &lt;span class=&#34;caps&#34;&gt;SHANTI&lt;/span&gt; at UVa&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Marybeth Green and Gerri Maxwell, &amp;#8220;&lt;a href=&#34;http://www.educause.edu/EDUCAUSE+Quarterly/EDUCAUSEQuarterlyMagazineVolum/WikifyYourCourseDesigningandIm/213717&#34;&gt;Wikify Your Course: Designing and Implementing a Wiki for Your Learning Environment&lt;/a&gt;&amp;#8220;, &lt;em&gt;Educause Quarterly&lt;/em&gt; 33.3&amp;nbsp;(2010)&lt;/li&gt;
+&lt;/ul&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">visualizing texts with wordle</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/visualizing_text.html"/>
+            <updated>2012-02-06T09:30:00Z</updated>
+            <published>2012-02-06T09:30:00Z</published>
+            <id>/511S2012/blog/visualizing_text.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;Erin Templeton has &lt;a href=&#34;http://chronicle.com/blogs/profhacker/wordle-revisited/38293&#34;&gt;a new post&lt;/a&gt; up at Profhacker on using &lt;a href=&#34;http://www.wordle.net/&#34;&gt;wordle&lt;/a&gt; to introduce students in her literature classes to the concept of textual analysis. She mentions that she is frequently frustrated in trying to move students beyond description and summary on to analysis. It&amp;#8217;s something we struggle with in history classrooms as well.  Wordle takes a text and produces a frequency weighted word cloud of that text, with stop words removed. (Stop words are frequently recurring words with less semantic&amp;nbsp;significance.)&lt;/p&gt;
+&lt;p&gt;Can you think of ways that a tool like wordle could be incorporated into your world history courses? Is it just gimmicky? What about the &lt;a href=&#34;http://books.google.com/ngrams&#34;&gt;ngram viewer&lt;/a&gt;?&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">next week's discussion</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/next_week_discussion.html"/>
+            <updated>2012-01-31T12:15:00Z</updated>
+            <published>2012-01-31T12:15:00Z</published>
+            <id>/511S2012/blog/next_week_discussion.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;In looking back at our discussion last week, I&amp;#8217;m not satisfied completely with our coverage of the first week of reading. So, I want to revisit the design discussion this week. In lieu of more specific readings, I&amp;#8217;d like you to start looking for resources to help you make design decisions. Poke around the &lt;a href=&#34;http://tenntlc.utk.edu/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;TLC&lt;/span&gt; Tenn&lt;/a&gt; site, or &lt;a href=&#34;http://chronicle.com/blogs/profhacker/&#34;&gt;Profhacker&lt;/a&gt;, or even a journal like &lt;strong&gt;The History Teacher&lt;/strong&gt;. See where it takes you. Remember, the important thing about google isn&amp;#8217;t the first link you follow, it&amp;#8217;s the last one.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;Be ready to talk about what you&amp;nbsp;find.&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">the absent-minded professor</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/absent_minded.html"/>
+            <updated>2012-01-29T11:00:00Z</updated>
+            <published>2012-01-29T11:00:00Z</published>
+            <id>/511S2012/blog/absent_minded.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="roleModel"
+                        label="Rolemodel" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;It strikes me as I was entering the &lt;a href=&#34;http://chadblack.net/511S2012/studentposts/&#34;&gt;feeds&lt;/a&gt; for most of your sites today, that we (read, &amp;#8220;I&amp;#8221;) forgot last week to divvy up the groups for the semester. This oversight simply proves that the Absent Minded Professor stereotype has roots in reality. Obviously, this means we will assign groups and divvy up responsibilities on Monday. Now, if I can just remember where put my&amp;nbsp;keys&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Oh, and given that we didn&amp;#8217;t set things up, I&amp;#8217;d be happy to read everyone&amp;#8217;s reaction to &lt;em&gt;Metaphors We Live By&lt;/em&gt;, and its&amp;nbsp;provocations.&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">A Different Type of Seminar</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/a_different_type_of_seminar.html"/>
+            <updated>2010-01-01T00:00:00Z</updated>
+            <published>2010-01-01T00:00:00Z</published>
+            <id>/511S2012/blog/a_different_type_of_seminar.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                                &lt;p&gt;Welcome to History 511. I believe I can say with confidence that this seminar will be unlike any other you take in the course of your graduate program. Many of the books we read will be different. More importantly, much of the work we do will be very different. Why is that? Well, unlike other seminars you take here at &lt;span class=&#34;caps&#34;&gt;UT&lt;/span&gt;, our primary concern is neither content nor research methodology. This semester, we&amp;#8217;ll be concerned with pedagogy, course construction, and course mechanics. As such, this course works along a line of tension, between preparing you to teach a &amp;#8220;Survey of World History&amp;#8221; and preparing you better simply to teach.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve enjoyed thinking through this course in part because it is so different. It&amp;#8217;s my hope that the structure of the seminar will reinforce the pedagogical goals I hold for us all. If you&amp;#8217;re interested, I wrote a short &lt;a href=&#34;http://parezcoydigo.wordpress.com/2011/10/03/thinking-world-history/&#34;&gt;piece&lt;/a&gt; on my blog while I was conceiving of this class.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m looking forward to a great&amp;nbsp;semester!&lt;/p&gt;            </content>
+        </entry>
+    </feed>

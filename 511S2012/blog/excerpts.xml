@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BASIC blog excerpts feed    </title>
+        <link href="blog/excerpts.xml" rel="self" />
+    
+        <link href="/511S2012/"/>
+    
+        
+    <updated>2012-04-03T22:30:42Z</updated>
+
+    <id>/511S2012/blog/excerpts.xml/</id>
+
+            <entry>
+            <title type="html">wesch on why courses fail</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/why_good_courses_fail.html"/>
+            <updated>2012-04-03T22:30:00Z</updated>
+            <published>2012-04-03T22:30:00Z</published>
+            <id>/511S2012/blog/why_good_courses_fail.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">profhacker teaching carnival 5.08</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/teaching_carnival.html"/>
+            <updated>2012-04-02T08:30:00Z</updated>
+            <published>2012-04-02T08:30:00Z</published>
+            <id>/511S2012/blog/teaching_carnival.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">some resources for making course sites</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/making_a_course_site.html"/>
+            <updated>2012-02-27T17:30:00Z</updated>
+            <published>2012-02-27T17:30:00Z</published>
+            <id>/511S2012/blog/making_a_course_site.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">visualizing texts with wordle</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/visualizing_text.html"/>
+            <updated>2012-02-06T09:30:00Z</updated>
+            <published>2012-02-06T09:30:00Z</published>
+            <id>/511S2012/blog/visualizing_text.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">next week's discussion</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/next_week_discussion.html"/>
+            <updated>2012-01-31T12:15:00Z</updated>
+            <published>2012-01-31T12:15:00Z</published>
+            <id>/511S2012/blog/next_week_discussion.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">the absent-minded professor</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/absent_minded.html"/>
+            <updated>2012-01-29T11:00:00Z</updated>
+            <published>2012-01-29T11:00:00Z</published>
+            <id>/511S2012/blog/absent_minded.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="roleModel"
+                        label="Rolemodel" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">A Different Type of Seminar</title>
+            <author><name>Chad Black</name></author>
+            <link href="/511S2012/blog/a_different_type_of_seminar.html"/>
+            <updated>2010-01-01T00:00:00Z</updated>
+            <published>2010-01-01T00:00:00Z</published>
+            <id>/511S2012/blog/a_different_type_of_seminar.html</id>
+                        <category   scheme="/511S2012/blog/tags"
+                        term="History511"
+                        label="History511" />
+                        <category   scheme="/511S2012/blog/tags"
+                        term="teaching"
+                        label="Teaching" />
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+    </feed>

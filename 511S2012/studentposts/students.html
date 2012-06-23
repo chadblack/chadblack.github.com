@@ -1,0 +1,43 @@
+<!doctype html>
+<head>
+    <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js"
+                type="text/javascript"></script>
+        <style type="text/css">
+          @import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
+        </style>
+   <script type="text/javascript" src="https://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22feeds%22%2C%22version%22%3A%221%22%7D%5D%7D&key=ABQIAAAA2a4duBNMyd1C2rqMaUSDIhRwDMcf1Y2OlkR9wZszvc8hT6jAyBTyIY6zYjkieGF8SAzFpdQqjGDuNg"></script>
+   <script type="text/javascript"> 
+   function OnLoad() {
+     var feeds = [
+       {
+         title: 'People',
+         url: 'http://rss.people.com/web/people/rss/topheadlines/index.xml'
+       },
+       {
+         title: 'E-Online',
+         url: 'http://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml'
+       },
+       {
+         title: 'TMZ',
+         url: 'http://www.tmz.com/rss.xml'
+       }
+     ];
+
+     var options = {
+       stacked : true,
+       horizontal : false,
+       title : "Hollywood News"
+     };
+
+     new GFdynamicFeedControl(feeds, 'content', options);
+     document.getElementById('content').style.width = "500px";
+   }
+
+   google.setOnLoadCallback(OnLoad);​
+       </script>
+   <title>Student Feed Attempt</title>
+</head>
+
+<body>
+    <div id="content"></div>
+</body>
