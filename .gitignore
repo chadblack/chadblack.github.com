@@ -1,3 +1,7 @@
+# unneeded files
 .hyde_deps
+sitemap.xml
+
+# pdf folders from old sites
 */media/pdfs/
 

@@ -23,7 +23,7 @@ body {
 	background-color: white;
 	margin: 0 auto;  
    	width: 940px; 
-	font-size: 110%; 
+	font-size: 130%; 
 }
 
 footer {
@@ -67,7 +67,7 @@ article {
 	padding-left: 2.5em;
 }
 aside {
-	 float: right; max-width: 300px;clear: right;padding-top: 1em;
+	 float: right; max-width: 300px;clear: right;padding-top: 1em;font-size: 100%;
 }
 
 #site-title {
