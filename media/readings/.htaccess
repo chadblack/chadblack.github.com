@@ -1,0 +1,4 @@
+AuthUserFile /home/parezcoydigo/.htreadings
+AuthType Basic
+AuthName "Protect Readings"
+Require valid-user
